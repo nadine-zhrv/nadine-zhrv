@@ -2,11 +2,12 @@
 
 ### Меня зовут Надя Захарова. Я начинающий Специалист по Data Science.
 
-🔭 Активно ищу работу
-🌱 Занимаюсь самообучением
-📫 zakharova.n.00@mail.ru
+- 🔭 Активно ищу работу
+- 🌱 Занимаюсь самообучением
+- 📫 zakharova.n.00@mail.ru
 
-✨ Навыки и инструменты:
+- ✨ Навыки и инструменты:
+
 Python, SQL, Pandas, NumPy, SciPy, Matplotlib, Seaborn, Scikit-Learn, Keras, Statsmodels, NLTK
 
 <!--
