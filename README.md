@@ -6,7 +6,7 @@
 - 🌱 Занимаюсь самообучением
 - 📫 zakharova.n.00@mail.ru
 
-- ✨ Навыки и инструменты:
+✨ Навыки и инструменты:
 
 Python, SQL, Pandas, NumPy, SciPy, Matplotlib, Seaborn, Scikit-Learn, Keras, Statsmodels, NLTK
 
